@@ -1,135 +1,80 @@
 <div align="center">
 
-# ¡Hola, soy Pablo González! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Pablo González Pérez
 
-**En busca de nuevos desafíos | Siempre con ganas de aprender**
+### Desarrollador de Software · Backend
+**Construyo sistemas que funcionan.**
 
-### 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+<br/>
 
-*Explorando el mundo del software y apasionado por solucionar problemas reales. Mi enfoque: **"aprender haciendo"**.*
+*Building reliable backends with Java & Spring — focused on the logic behind every problem.*
 
----
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pabloperez.es-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://pabloperez.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pablo--gonzalez--perez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonzalez-perez)
+[![Email](https://img.shields.io/badge/Email-pablodev1422@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodev1422@gmail.com)
 
 </div>
 
-## 🚀 Sobre mí
+---
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200">
+## Sobre mí
 
-*   🌱 Actualmente cursando **DAM**, consolidando las bases de la programación.
-*   💻 He tenido la oportunidad de trabajar con empresas reales, desarrollando soluciones como **microservicios** para conectar tiendas de Shopify y Amazon con sistemas logísticos, y sitios web completos desplegados en **Vercel**.
-*   🎯 Mi especialidad es el **back-end**, aunque también tengo experiencia en **front-end**. Lo que realmente me apasiona es construir arquitecturas robustas y resolver problemas complejos.
-*   🧩 Me encantan los retos: no lo sé todo, pero me encanta investigar hasta encontrar la solución.
-*   📚 Nunca descarto aprender nada nuevo. Siempre estoy formándome y explorando nuevas tecnologías.
+De Jaén. Desarrollador de software centrado en **backend**, donde Java con Spring es lo que más disfruto.
 
-<br />
+- 🎓 **Titulado en DAM** (Desarrollo de Aplicaciones Multiplataforma) y con mis **primeras prácticas profesionales completadas** — 2026.
+- 🧩 Llegué al código por necesidad real, no por teoría: la tienda de mi familia necesitaba un sistema que escalara. Me quedé por la **lógica de cómo encaja todo**.
+- ⚙️ Mi terreno es el backend —arquitectura, APIs, microservicios— pero no le temo al front: he construido experiencias completas en React.
+- 🚀 Tengo código **en producción**: herramientas que se usan a diario, una app terminada y otra en marcha.
+- 🤝 Lo que busco ahora: **crecer en un equipo del que aprenda más rápido de lo que aprendo solo.**
 
 ---
 
-## 🛠️ Tecnologías y herramientas que he utilizado
+## Stack
 
-### **Backend (Mi especialidad)**
+**Backend**
 
-<br />
+[![Backend](https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb)](https://skillicons.dev)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=java" height="50" />
-      <br /><b>Java</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=spring" height="50" />
-      <br /><b>Spring Boot</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-      <br /><b>Node.js</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-      <br /><b>MySQL</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-      <br /><b>MongoDB</b>
-    </td>
-  </tr>
-</table>
+**Frontend**
 
-<br />
+[![Frontend](https://skillicons.dev/icons?i=react,ts,tailwind,html,css)](https://skillicons.dev)
 
-### **Frontend & Mobile**
+**DevOps & Cloud**
 
-<br />
+[![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions,vercel,gcp,aws,firebase)](https://skillicons.dev)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=react" height="50" />
-      <br /><b>React</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=androidstudio" height="50" />
-      <br /><b>Android Studio</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=html" height="50" />
-      <br /><b>HTML/CSS</b>
-    </td>
-  </tr>
-</table>
+**Mobile & Commerce**
 
-<br />
-
-### **Tools & Infrastructure**
-
-<br />
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=git" height="50" />
-      <br /><b>Git</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=docker" height="50" />
-      <br /><b>Docker</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://skillicons.dev/icons?i=vercel" height="50" />
-      <br /><b>Vercel</b>
-    </td>
-    <td align="center" width="120px">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/n8n-color.png" height="50" />
-      <br /><b>n8n</b>
-    </td>
-    <td align="center" width="140px">
-      <img src="https://skillicons.dev/icons?i=gcp" height="50" />
-      <br /><b>Google AI Studio</b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-> También tengo conocimientos en **Python** y continúo expandiendo mi stack de tecnologías.
-
-<br />
-<br />
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://pabloperez.es)
+[![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)](https://pabloperez.es)
+[![Liquid](https://img.shields.io/badge/Liquid-2A2A2A?style=for-the-badge&logo=shopify&logoColor=white)](https://pabloperez.es)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://pabloperez.es)
 
 ---
 
-## 📫 Contacto & Colaboración
+## Proyectos destacados
 
-*¿Quieres hablar sobre algún proyecto o simplemente charlar?*
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[Sistema de Gestión de Pedidos](https://pabloperez.es)** | Dashboard fullstack con microservicios conectados a Shopify. En uso en la empresa desde el día uno. | `Java` `Spring Boot` `MongoDB` `OAuth2` `React` |
+| **[Nightly](https://nightly-best.vercel.app/)** | Red social Android para compartir tu noche. Proyecto Final de Grado en equipo — terminado y en distribución. | `Android` `Firebase` `Cloudinary` `GitHub Actions` |
+| **[Regalo Grabado](https://regalograbado.com)** | E-commerce de la tienda familiar: personalizador de producto, SEO/GEO y automatizaciones. | `Shopify` `Liquid` `SEO` |
+| **[Grabado Láser](https://grabadolaser.eu)** | Landing corporativa B2B premium, optimizada para SEO técnico y GEO. | `React` `TypeScript` `Tailwind` `Vercel` |
 
-*   📧 <a href="mailto:pablodev1422@gmail.com">**Email:**</a> `pablodev1422@gmail.com`
-*   💼 <a href="https://www.linkedin.com/in/pablo-gonzalez-perez">**LinkedIn:**</a> `pablo-gonzalez-perez`
-*   💼 <a href="https://www.pabloperez.es">**Portfolio:**</a> `pabloperez.es`
+> Más casos de estudio y detalle técnico en **[pabloperez.es](https://pabloperez.es)** 🔗
 
-<br>
+---
 
 <div align="center">
-  <b>¡Gracias por pasarte por mi perfil! ✌️</b>
+
+### ¿Construimos algo juntos?
+
+Recién titulado y abierto a nuevas oportunidades.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pabloperez.es-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://pabloperez.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonzalez-perez)
+[![Email](https://img.shields.io/badge/Email-pablodev1422-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodev1422@gmail.com)
+
 </div>
